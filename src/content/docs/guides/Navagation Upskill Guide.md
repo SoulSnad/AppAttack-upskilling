@@ -6,22 +6,22 @@ description: A navigation guide to help direct juniors with the upskilling proce
 
 ---
 
-## 1.Initial Upskilling for on-boarding Juniors
+## 1. Initial Upskilling for on-boarding Juniors
 
-### 1.1Pentest
+### 1.1 Pentest
 
-### 1.2Latex-Guide
+### 1.2 Latex-Guide
 
 
 ---
 
-## 2.Further Upskilling 
+## 2. Further Upskilling 
 
-### 2.1Secure-code-review
+### 2.1 Secure-code-review
 
-### 2.2Frameworks
+### 2.2 Frameworks
 
-### 2.3other-resources
+### 2.3 other-resources
 
 
 ---
