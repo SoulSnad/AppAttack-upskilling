@@ -16,7 +16,7 @@ For on-boarding juniors
 
 ### 1.2 Latex
 
-Resources to help you learn LaTeX can be found in the [Latex-Guide](AppAttack-upskilling/src/content/docs/guides/Latex-Guide/latex-guide.mdx)
+Resources to help you learn LaTeX can be found in the [Latex-Guide](../guides/Latex-Guide/latex-guide.mdx)
 
 ---
 
