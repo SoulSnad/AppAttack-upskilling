@@ -1,11 +1,10 @@
 ---
 title: Upskilling Navigation Guide
-description: 
+description: A navigation guide to help direct juniors with the upskilling process 
 sidebar:
   order: 1
-
-**Author:** Daniel Cojocariu (Trimester 2, 2026)
 ---
+**Author:** Daniel Cojocariu (Trimester 2, 2026)
 ---
 
 
