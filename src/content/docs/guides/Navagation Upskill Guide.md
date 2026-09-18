@@ -49,7 +49,7 @@ For resources related more towards secure code reviews
 
 * [Getting started with Codeforces](../guides/secure-code-review/codeforces.mdx)
 
-* [Introduction toCodeQL](../guides/secure-code-review/codeql.mdx)
+* [Introduction to CodeQL](../guides/secure-code-review/codeql.mdx)
 
 * [Introduction to Snyk](../guides/secure-code-review/snyk.mdx)
 
