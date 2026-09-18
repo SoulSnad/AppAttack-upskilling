@@ -24,10 +24,20 @@ Resources to help you learn LaTeX can be found in the [Latex-Guide](../guides/La
 
 ## 2. Further Upskilling Resources
 
-### 2.1 
-Secure-code-review
 
-### 2.2 Cyber Security Framework
+### 2.1 Secure Code Reviewal
+
+[Codeforces](../guides/secure-code-review/codeforces.mdx)
+
+[Codeql](../guides/secure-code-review/codeql.mdx)
+
+[learning-resources](../guides/secure-code-review/learning-resources.mdx)
+
+[snyk](../guides/secure-code-review/snyk.mdx)
+
+[W](../guides/secure-code-review/what-is-secure-code-review.mdx)
+
+### 2.2 Cyber Security Frameworks
 
 [Essential 8](../guides/Frameworks/e8.mdx)
 
