@@ -45,7 +45,7 @@ For further upskilling via Tryhackme you can continue to do the additional modul
 
 ### 2.2 OWASP VM
 
-Some of you may already be familiar with the OWASP VM and have already used it before, As a more practical upskilling method can make use of the variety of training environments provided by the OWASP VM which can be downloaded [here](https://sourceforge.net/projects/owaspbwa/)
+Some of you may already be familiar with the OWASP VM and have already used it before, As a more practical upskilling method you can make use of the variety of training environments provided by the OWASP VM, which can be downloaded [here](https://sourceforge.net/projects/owaspbwa/)
 
 * (insert installation guide for OWASP VM)
 
@@ -73,7 +73,7 @@ For resources related more towards secure code reviews
 
 ### 2.4 Cyber Security Frameworks
 
-For additional theory and to better your pen test reports with more technical and categorized explanations
+For additional theory and to better your pen test reports with more technical explanations
 
 * [The Essential 8](../guides/frameworks/e8.mdx)
 
