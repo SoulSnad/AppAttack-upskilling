@@ -7,11 +7,13 @@ description: A navigation guide to help direct juniors with the upskilling proce
 
 ## 1. Initial Upskilling Resources for on-boarding Juniors
 
-For on-boarding juniors you will be required to have done a minimum amount of upskilling before you can begin pen testing
+For on-boarding juniors that wish to do pen testing you will be required to have done a minimum amount of upskilling before you can begin pen testing
 
 ### 1.1 Minimum Pentesting Upskilling
 
-Tryhackme
+The minimum requirement to begin pen testing is that of completing () Tryhackme
+
+
 
 
 ### 1.2 Basic Understanding of Latex
