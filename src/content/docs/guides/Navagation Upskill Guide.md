@@ -43,7 +43,22 @@ For additional "technical contributions" or simply to increase your pen testing 
 For further upskilling via Tryhackme you can continue to do the additional modules or even [additional courses]( https://tryhackme.com/hacktivities), if you don't know where to start try the Web Application Pentesting course 
 
 
-### 2.2 Secure Code Reviewal
+### 2.2 OWASP VM
+
+Some of you may already be familiar with the OWASP VM and have already used it before, As a more practical upskilling method can make use of the variety of training environments provided by the OWASP VM which can be downloaded [here](https://sourceforge.net/projects/owaspbwa/)
+
+* (insert installation guide for OWASP VM)
+
+If you are overwhelmed by the OWASP VM you can start with the exploits and vulnerabilities in the Bodgelt Store before moving on to the Juice Shop or the DVWA
+
+* (insert guide for Bodgelt Store)
+
+* (insert start guide for Juice Shop)
+
+* (insert start guide for DVWA)
+
+
+### 2.3 Secure Code Reviewal
 
 For resources related more towards secure code reviews
 
@@ -56,7 +71,7 @@ For resources related more towards secure code reviews
 * [What is a Secure Code Review](../guides/secure-code-review/what-is-secure-code-review.mdx)
 
 
-### 2.3 Cyber Security Frameworks
+### 2.4 Cyber Security Frameworks
 
 For additional theory and to better your pen test reports with more technical and categorized explanations
 
@@ -67,7 +82,7 @@ For additional theory and to better your pen test reports with more technical an
 * [The NIST Cybersecurity Framework](../guides/frameworks/nist.mdx)
 
 
-### 2.4 Additional Learning Resources
+### 2.5 Additional Learning Resources
 
 Additional unsorted learning materials 
 
