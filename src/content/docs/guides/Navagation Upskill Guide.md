@@ -60,11 +60,11 @@ For resources related more towards secure code reviews
 
 For additional theory and to better your pen test reports with more technical and categorized explanations
 
-* [The Essential 8](../guides/Frameworks/e8.mdx)
+* [The Essential 8](../guides/frameworks/e8.mdx)
 
-* [What is the MITRE ATT&CK Framework](../guides/Frameworks/mitre.mdx)
+* [What is the MITRE ATT&CK Framework](../guides/frameworks/mitre.mdx)
 
-* [The NIST Cybersecurity Framework](../guides/Frameworks/nist.mdx)
+* [The NIST Cybersecurity Framework](../guides/frameworks/nist.mdx)
 
 
 ### 2.4 Additional Learning Resources
